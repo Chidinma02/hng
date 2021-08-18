@@ -1,0 +1,48 @@
+
+*{
+    background-color:rgb(212, 208, 208);
+    color:black;
+    font-family: 'Georama', sans-serif;
+}
+
+.header{
+    
+    height:19vh;
+}
+.section-2{
+    
+}
+.firstCol{
+     
+}
+.con{
+    font-weight: bolder;
+}
+.secondCol{
+    border-left:2px solid black;
+    border-spacing:200px;
+    padding-left:200px;
+}
+.first{
+    border-bottom:2px solid black; 
+}
+.second{
+    border-bottom:2px solid black;
+}
+.third{
+    border-bottom:2px solid black;
+}
+.fourth{
+    border-bottom:2px solid black;
+}
+.seven{
+    border-top:2px solid black;
+}
+.eight{
+    border-bottom:2px solid black;
+}
+.img{
+    height:350px;
+    width:300px;
+}
+p.dotted {border-style: dotted;}
